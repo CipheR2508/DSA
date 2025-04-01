@@ -1,0 +1,84 @@
+					  |DSA interview|
+					  ---------------
+			__________________________________________________________
+				<Interview question for GOOGLE, MICROSOFT>
+			----------------------------------------------------------
+
+1. Two Pointers:
+- Valid Palindrome https://leetcode.com/problems/valid-palindrome/
+- Trapping Rain water: https://leetcode.com/problems/trapping-rain-water/
+
+2. Sliding window:
+-Longest Substring without repeating character : 
+https://leetcode.com/problems/longest-substring-without-repeating-characters/
+-Minimum Size Subarray Sum - https://leetcode.com/problems/minimum-size-subarray-sum/
+
+3. BFS and DFS:
+- Level Order Traversal: https://lnkd.in/gBgjQPZg
+- Number of Islands: https://lnkd.in/gv6pDg_u
+
+4. Dynamic Programming:
+- Longest Increasing Subsequence: https://lnkd.in/gdkjpHCv
+- Longest Common Subsequence: https://lnkd.in/gn_niUMG
+
+5. Backtracking:
+- Combination Sum: https://lnkd.in/g4mUmmqW
+- Word Ladder: https://lnkd.in/gMsAtbcR
+
+6. Greedy Algorithm:
+- Container with Most Water - https://leetcode.com/problems/container-with-most-water/
+
+7. Top k Elements:
+- k Largest Elements in an Array: https://lnkd.in/g8xWd37F
+- k Most Frequent Elements in an Array: https://lnkd.in/g3T6BTqX
+
+			_______________________________________________________________
+				You should start your DSA with these patterns-
+					    <GOOGLE, MICROSOFT>
+			---------------------------------------------------------------
+
+1. Sliding window pattern.
+2. Two pointer pattern.
+3. Fast & slow pointers pattern.
+4. Merger interval pattern.
+5. Cyclic sort pattern.
+6. In-place reversal of linked list pattern.
+7. Tree breadth first search pattern.
+8. Depth first search DFS pattern.
+9. Two heap pattern.
+10. Subsets pattern.
+11. Modified binary search pattern.
+12. Bitwise xor pattern.
+13. Top ‘K’ elements pattern.
+14. 0/1 knapsack DP pattern.
+15. Topological sort Graph path
+
+			_______________________________________________________________
+				   	Array questions Leet Code
+			----------------------------------------------------------------
+1. Two Sum (LeetCode #1)
+   - Hash table for efficient lookup
+
+2. Best Time to Buy and Sell Stock (LeetCode #121)
+   - Track minimum price and maximum profit
+
+3. Product of Array Except Self (LeetCode #238)
+   - Left and right product arrays
+
+4. Maximum Subarray (LeetCode #53)
+   - Kadane's algorithm
+
+5. Find Minimum in Rotated Sorted Array (LeetCode #153)
+   - Modified binary search
+
+6. Search in Rotated Sorted Array (LeetCode #33)
+   - Two-pass binary search
+
+7. Subarray Sum Equals K (LeetCode #560)
+   - Cumulative sum with hash map
+
+8. Merge Sorted Array (LeetCode #88)
+   - Start from end, compare and place
+
+9. Find All Numbers Disappeared in an Array (LeetCode #448)
+   - In-place array manipulation
